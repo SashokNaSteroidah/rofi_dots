@@ -34,7 +34,7 @@ window {
 mainbox {
     enabled:                     true;
     spacing:                     0em;
-    padding:                     0em;
+    padding:                     0.5em;
     orientation:                 vertical;
     children:                    [ "wallbox" , "listbox" ];
     background-color:            transparent;
